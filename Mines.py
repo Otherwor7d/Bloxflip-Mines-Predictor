@@ -73,7 +73,7 @@ async def mines(ctx, round_id):
         row5 = mine21 + mine22 + mine23 + mine24 + mine25
         info = str(random.randint(65, 92))
         em = discord.Embed(color=0xB87DFF)
-        em.set_footer(text="There is no 💯")
+        em.set_footer(text="(Commands by Otherwor7d)")
         em.add_field(name="Bloxflip Mines predictor",value=row1 + "\n" + row2 + "\n" + row3 + "\n" + row4 +"\n" + row5 + "\n" + "**Accuracy**" + "\n" + info +"%")
         await ctx.reply(embed=em)
 
