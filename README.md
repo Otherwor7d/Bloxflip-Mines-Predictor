@@ -1,4 +1,4 @@
-# Bloxflip-Mines-Predictor
+# Bloxflip-Mines-Predictor💎💣
 
 # What you will need:
 - Replit or Visual Code Studios
